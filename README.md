@@ -24,3 +24,16 @@ Technical Realisation:
 - Data stored in a database for easy retrieval and manipulation
 - Utilizing QT's signal-slot mechanism for event handling and communication between components
 - Custom styling and design for a visually appealing interface
+
+# Homepage ( Authorisation )
+Functionality:
+
+# Page with Dataset
+Functionality:
+
+# Example of Database
+| Barbie Doll      | Price (USD) | Number of Buyings | Year of Production |
+|------------------|-------------|-------------------|--------------------|
+| Dreamhouse Barbie | 29.99       | 100               | 2020               |
+| Fashionista Barbie| 12.99       | 200               | 2018               |
+| Holiday Barbie    | 49.99       | 50                | 2019               |
