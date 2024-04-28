@@ -24,20 +24,15 @@ Technical Realisation:
 - Data stored in a database for easy retrieval and manipulation
 - Utilizing QT's signal-slot mechanism for event handling and communication between components
 - Custom styling and design for a visually appealing interface
-
-# Homepage ( Authorisation )
-Functionality:
-Фильтр-диапазон по цене барби
-Сортировки по всем колонкам
-Тэги(?)
-Добавление новых барби
-Поиск по таблчке
-Загрузочный экран прикольный 
-Тест какая ты барби
-
-
-# Page with Dataset
-Functionality:
+  
+# Functionality of the whole app:
+- Фильтр-диапазон по цене барби
+- Сортировки по всем колонкам
+- Тэги(?)
+- Добавление новых барби
+- Поиск по таблчке
+- Загрузочный экран прикольный 
+- Тест какая ты барби
 
 # Example of Database
 | Barbie Doll      | Price (USD) | Number of Buyings | Year of Production |
