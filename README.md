@@ -42,6 +42,6 @@ Technical Realisation:
 | Holiday Barbie    | 49.99       | 50                | 2019               |
 
 
-# Realisation of our project
+# Design of our project
 ![image](https://github.com/adelelyn/C-Project/assets/145099440/2728a948-479a-4473-af63-d7ebe5698b51)
 
